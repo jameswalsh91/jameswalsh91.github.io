@@ -1,0 +1,39 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1432221355588">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="index.css" crc="466860965" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="grid.pdf" crc="3872664776" mt="1432047730000"/>
+    <file name="showcase2.ai" crc="3872308527" mt="1432047929000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index"/>
+    <file name="museutils.js" crc="521960461" ref="index"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="index"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="untitled-4.jpg" crc="477559077" ref="index"/>
+    <file name="untitled-4-crop-u230.png" crc="3814761269" ref="index"/>
+    <file name="untitled-4-crop-u322.png" crc="3782502416" ref="index"/>
+    <file name="---crop-u575.jpg" crc="437446874" ref="index"/>
+    <file name="---crop-u497.jpg" crc="3869196157" ref="index"/>
+    <file name="intro-crop-u344.jpg" crc="4290029535" ref="index"/>
+    <file name="pasted image 432x406.png" crc="377281376" ref="index"/>
+    <file name="selfy.jpg" crc="4128469161" ref="index"/>
+    <file name="vision-crop-u350.jpg" crc="72413441" ref="index"/>
+    <file name="img_3175.jpg" crc="414801395" ref="index"/>
+    <file name="identity-crop-u356.jpg" crc="57856003" ref="index"/>
+    <file name="chair.jpg" crc="315099446" ref="index"/>
+    <file name="past-crop-u362.jpg" crc="3766567942" ref="index"/>
+    <file name="chair 2.jpg" crc="3935218367" ref="index"/>
+    <file name="future.jpg" crc="428376115" ref="index"/>
+    <file name="goals-crop-u614.jpg" crc="4047318745" ref="index"/>
+    <file name="screen shot 2015-05-20 at 43755 pm.jpg" crc="246222253" ref="index"/>
+    <file name="goals-crop-u371.jpg" crc="126523036" ref="index"/>
+    <file name="pic.jpg" crc="439352054" ref="index"/>
+  </folder>
+  <file name="index.html" crc="256814029" mt="1432220041555" redirect="true"/>
+</manifest>
