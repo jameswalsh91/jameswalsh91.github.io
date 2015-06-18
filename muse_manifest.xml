@@ -1,18 +1,27 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1432221355588">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1434618613372">
   <folder name="css">
     <file name="site_global.css" crc="422415861"/>
-    <file name="index.css" crc="466860965" ref="index"/>
+    <file name="index.css" crc="3806871000" ref="index"/>
+    <file name="growth.css" crc="180630732" ref="growth"/>
+    <file name="rsdl-weeks.css" crc="501878136" ref="rsdl-weeks"/>
+    <file name="project.css" crc="117514590" ref="project"/>
+    <file name="competencies.css" crc="4120797081" ref="competencies"/>
+    <file name="assignments.css" crc="263729390" ref="assignments"/>
+    <file name="pdp.css" crc="212186197" ref="pdp"/>
   </folder>
   <folder name="assets">
     <file name="grid.pdf" crc="3872664776" mt="1432047730000"/>
     <file name="showcase2.ai" crc="3872308527" mt="1432047929000"/>
+    <file name="logo-wearable-senses-lc-zwart.ai" crc="4258932765" mt="1386152959000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index"/>
-    <file name="museutils.js" crc="521960461" ref="index"/>
-    <file name="jquery.musemenu.js" crc="397543671" ref="index"/>
-    <file name="jquery.watch.js" crc="56779320" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:project:assignments:competencies:rsdl-weeks:pdp:growth"/>
+    <file name="museutils.js" crc="521960461" ref="index:project:assignments:competencies:rsdl-weeks:pdp:growth"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="index:project:assignments:competencies:rsdl-weeks:pdp:growth"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index:project:assignments:competencies:rsdl-weeks:pdp:growth"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:project:assignments:competencies:rsdl-weeks:pdp:growth"/>
+    <file name="jquery.scrolleffects.js" crc="4038615763" ref="project"/>
+    <file name="pie.js" crc="3827607177" ref="project:assignments:pdp"/>
   </folder>
   <folder name="images">
     <file name="untitled-4.jpg" crc="477559077" ref="index"/>
@@ -26,14 +35,73 @@
     <file name="vision-crop-u350.jpg" crc="72413441" ref="index"/>
     <file name="img_3175.jpg" crc="414801395" ref="index"/>
     <file name="identity-crop-u356.jpg" crc="57856003" ref="index"/>
-    <file name="chair.jpg" crc="315099446" ref="index"/>
     <file name="past-crop-u362.jpg" crc="3766567942" ref="index"/>
     <file name="chair 2.jpg" crc="3935218367" ref="index"/>
     <file name="future.jpg" crc="428376115" ref="index"/>
     <file name="goals-crop-u614.jpg" crc="4047318745" ref="index"/>
-    <file name="screen shot 2015-05-20 at 43755 pm.jpg" crc="246222253" ref="index"/>
     <file name="goals-crop-u371.jpg" crc="126523036" ref="index"/>
     <file name="pic.jpg" crc="439352054" ref="index"/>
+    <file name="u264-21.png" crc="74861347" ref="index"/>
+    <file name="screen shot 2015-06-16 at 121958 pm.jpg" crc="3978029921" ref="index"/>
+    <file name="u617-6.png" crc="475268052" ref="index"/>
+    <file name="u283-8.png" crc="4041623790" ref="index"/>
+    <file name="img_0589.jpg" crc="58450178" ref="index"/>
+    <file name="u302-14.png" crc="4255972346" ref="index"/>
+    <file name="u315-14.png" crc="198617171" ref="index"/>
+    <file name="---crop-u1538.jpg" crc="437446874" ref="project"/>
+    <file name="u1298-4.png" crc="4186437632" ref="project"/>
+    <file name="---crop-u1536.jpg" crc="3869196157" ref="project"/>
+    <file name="sdfjn.jpg" crc="326152390" ref="project"/>
+    <file name="u1342-4.png" crc="3896297621" ref="project"/>
+    <file name="img_0532.jpg" crc="3879995343" ref="project"/>
+    <file name="u1659-4.png" crc="4029793789" ref="project"/>
+    <file name="u1291-304.png" crc="4276901742" ref="project"/>
+    <file name="img_3335.jpg" crc="279246600" ref="project"/>
+    <file name="u1657-4.png" crc="4004208395" ref="assignments"/>
+    <file name="---crop-u1757.jpg" crc="437446874" ref="assignments"/>
+    <file name="---crop-u1747.jpg" crc="3869196157" ref="assignments"/>
+    <file name="drawdf.jpg" crc="4066609673" ref="assignments"/>
+    <file name="u1708-5.png" crc="530684978" ref="assignments"/>
+    <file name="blank.gif" crc="4208392903" ref="assignments"/>
+    <file name="u1697.png" crc="101065692" ref="assignments"/>
+    <file name="u1697-r.png" crc="315698387" ref="assignments"/>
+    <file name="u1701.png" crc="34564918" ref="assignments"/>
+    <file name="u1701-r.png" crc="3782603351" ref="assignments"/>
+    <file name="u1703.png" crc="331745145" ref="assignments"/>
+    <file name="u1703-r.png" crc="3948158277" ref="assignments"/>
+    <file name="u1686-4.png" crc="425306605" ref="assignments"/>
+    <file name="img_9784.jpg" crc="4062428475" ref="assignments"/>
+    <file name="u1707.png" crc="331745145" ref="assignments"/>
+    <file name="u1707-r.png" crc="3948158277" ref="assignments"/>
+    <file name="u1658-115.png" crc="362476032" ref="assignments"/>
+    <file name="---crop-u1838.jpg" crc="437446874" ref="competencies"/>
+    <file name="u1348-4.png" crc="502657983" ref="competencies"/>
+    <file name="---crop-u1836.jpg" crc="3869196157" ref="competencies"/>
+    <file name="h9_illustrations_2.png" crc="384736415" ref="competencies"/>
+    <file name="grapgh.jpg" crc="3921634842" ref="competencies"/>
+    <file name="234t.jpg" crc="158620621" ref="competencies"/>
+    <file name="123.jpg" crc="220222959" ref="competencies"/>
+    <file name="u1258-4.png" crc="3794823212" ref="competencies"/>
+    <file name="u1257-4.png" crc="3773800138" ref="competencies"/>
+    <file name="u1091-225.png" crc="3948806260" ref="competencies"/>
+    <file name="---crop-u1824.jpg" crc="437446874" ref="rsdl-weeks"/>
+    <file name="u1349-6.png" crc="4002582804" ref="rsdl-weeks"/>
+    <file name="---crop-u1822.jpg" crc="3869196157" ref="rsdl-weeks"/>
+    <file name="img_0046.jpg" crc="3762170425" ref="rsdl-weeks"/>
+    <file name="screen shot 2015-06-16 at 121941 pm.jpg" crc="3916913053" ref="rsdl-weeks"/>
+    <file name="img_0152.jpg" crc="4056605182" ref="rsdl-weeks"/>
+    <file name="u1005-140.png" crc="477288724" ref="rsdl-weeks"/>
+    <file name="u1763-6.png" crc="164217495" ref="pdp"/>
+    <file name="---crop-u1733.jpg" crc="437446874" ref="growth"/>
+    <file name="---crop-u1723.jpg" crc="3869196157" ref="growth"/>
+    <file name="img_9803.jpg" crc="3771721609" ref="growth"/>
+    <file name="u1477-105.png" crc="93994151" ref="growth"/>
   </folder>
-  <file name="index.html" crc="256814029" mt="1432220041555" redirect="true"/>
+  <file name="index.html" crc="191047839" mt="1434564808093" redirect="true"/>
+  <file name="project.html" crc="318833539" mt="1434565614056" redirect="true"/>
+  <file name="assignments.html" crc="349396598" mt="1434564506123" redirect="true"/>
+  <file name="competencies.html" crc="3931172143" mt="1434565071350" redirect="true"/>
+  <file name="rsdl-weeks.html" crc="397415472" mt="1434565182449" redirect="true"/>
+  <file name="pdp.html" crc="398199819" mt="1434563061264" redirect="true"/>
+  <file name="growth.html" crc="369235214" mt="1434565198825" redirect="true"/>
 </manifest>
